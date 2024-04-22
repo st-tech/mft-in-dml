@@ -1,0 +1,6 @@
+faiss-gpu
+numpy
+pandas
+pytorch-metric-learning
+tqdm
+wandb
